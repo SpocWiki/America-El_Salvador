@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-89.16666] 
-[geo-lat::13.66667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-89.16666] 
+[has_place_latitude::13.66667] 
 [name::San Salvador] 
 State ::  
 Country :: [[../../../../El_Salvador]] 

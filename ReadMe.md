@@ -126,8 +126,10 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 [Alcohol-l::3.6] 
 [Language-Id::492] 
-[geo-lon::-89.1667] 
-[geo-lat::13.6667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-89.1667] 
+[has_place_latitude::13.6667] 
 
 
 
