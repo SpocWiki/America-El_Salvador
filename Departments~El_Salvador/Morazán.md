@@ -41,15 +41,17 @@ markerFolder: ./Morazán/
 
 ## Confidential Links & Embeds: 
 
-### [Morazán.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.public.md) 
+### [Morazán](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.md) 
 
-### [Morazán.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.internal.md) 
+### [Morazán.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.public.md) 
 
-### [Morazán.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.protect.md) 
+### [Morazán.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.internal.md) 
 
-### [Morazán.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.private.md) 
+### [Morazán.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.protect.md) 
 
-### [Morazán.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.personal.md) 
+### [Morazán.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.private.md) 
 
-### [Morazán.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.secret.md)
+### [Morazán.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.personal.md) 
+
+### [Morazán.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Morazán.secret.md)
 

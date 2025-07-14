@@ -41,15 +41,17 @@ markerFolder: ./Cuscatlán/
 
 ## Confidential Links & Embeds: 
 
-### [Cuscatlán.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.public.md) 
+### [Cuscatlán](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.md) 
 
-### [Cuscatlán.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.internal.md) 
+### [Cuscatlán.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.public.md) 
 
-### [Cuscatlán.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.protect.md) 
+### [Cuscatlán.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.internal.md) 
 
-### [Cuscatlán.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.private.md) 
+### [Cuscatlán.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.protect.md) 
 
-### [Cuscatlán.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.personal.md) 
+### [Cuscatlán.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.private.md) 
 
-### [Cuscatlán.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCuscatlán.secret.md)
+### [Cuscatlán.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.personal.md) 
+
+### [Cuscatlán.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cuscatlán.secret.md)
 

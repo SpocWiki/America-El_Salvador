@@ -41,15 +41,17 @@ markerFolder: ./La_Paz/
 
 ## Confidential Links & Embeds: 
 
-### [La_Paz.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.public.md) 
+### [La_Paz](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.md) 
 
-### [La_Paz.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.internal.md) 
+### [La_Paz.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.public.md) 
 
-### [La_Paz.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.protect.md) 
+### [La_Paz.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.internal.md) 
 
-### [La_Paz.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.private.md) 
+### [La_Paz.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.protect.md) 
 
-### [La_Paz.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.personal.md) 
+### [La_Paz.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.private.md) 
 
-### [La_Paz.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Paz.secret.md)
+### [La_Paz.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.personal.md) 
+
+### [La_Paz.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Paz.secret.md)
 

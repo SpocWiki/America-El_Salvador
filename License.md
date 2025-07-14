@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\El_SalvadorLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/El_Salvador/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\El_SalvadorLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/El_Salvador/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\El_SalvadorLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/El_Salvador/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\El_SalvadorLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/El_Salvador/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\El_SalvadorLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/El_Salvador/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\El_SalvadorLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/El_Salvador/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/El_Salvador/License.secret.md)
 

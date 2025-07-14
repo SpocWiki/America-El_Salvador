@@ -132,15 +132,17 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\El_SalvadorReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/El_Salvador/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\El_SalvadorReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/El_Salvador/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\El_SalvadorReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/El_Salvador/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\El_SalvadorReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/El_Salvador/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\El_SalvadorReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/El_Salvador/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\El_SalvadorReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/El_Salvador/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/El_Salvador/ReadMe.secret.md)
 

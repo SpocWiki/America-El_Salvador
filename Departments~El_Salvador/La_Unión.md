@@ -41,15 +41,17 @@ markerFolder: ./La_Unión/
 
 ## Confidential Links & Embeds: 
 
-### [La_Unión.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.public.md) 
+### [La_Unión](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.md) 
 
-### [La_Unión.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.internal.md) 
+### [La_Unión.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.public.md) 
 
-### [La_Unión.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.protect.md) 
+### [La_Unión.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.internal.md) 
 
-### [La_Unión.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.private.md) 
+### [La_Unión.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.protect.md) 
 
-### [La_Unión.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.personal.md) 
+### [La_Unión.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.private.md) 
 
-### [La_Unión.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Unión.secret.md)
+### [La_Unión.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.personal.md) 
+
+### [La_Unión.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Unión.secret.md)
 
