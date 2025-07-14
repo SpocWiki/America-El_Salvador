@@ -40,11 +40,16 @@ markerFolder: ./Morazán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Morazán|Morazán]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Morazán.public|Morazán.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.internal|Morazán.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Morazán.protect|Morazán.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Morazán.private|Morazán.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Morazán.personal|Morazán.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Morazán.secret|Morazán.secret]] 
+
+### [Morazán.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.public.md) 
+
+### [Morazán.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.internal.md) 
+
+### [Morazán.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.protect.md) 
+
+### [Morazán.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.private.md) 
+
+### [Morazán.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.personal.md) 
+
+### [Morazán.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorMorazán.secret.md)
 

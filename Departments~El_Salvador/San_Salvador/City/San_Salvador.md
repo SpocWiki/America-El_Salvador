@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.66667,-89.16666] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/El_Salvador/City/San_Salvador|San_Salvador]] 
-- [[../../../../../../_public/geo/Continent/South-America/El_Salvador/City/San_Salvador.public|San_Salvador.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/El_Salvador/City/San_Salvador.internal|San_Salvador.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/El_Salvador/City/San_Salvador.protect|San_Salvador.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/El_Salvador/City/San_Salvador.private|San_Salvador.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/El_Salvador/City/San_Salvador.personal|San_Salvador.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/El_Salvador/City/San_Salvador.secret|San_Salvador.secret]] 
+
+### [San_Salvador.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.public.md) 
+
+### [San_Salvador.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.internal.md) 
+
+### [San_Salvador.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.protect.md) 
+
+### [San_Salvador.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.private.md) 
+
+### [San_Salvador.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.personal.md) 
+
+### [San_Salvador.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_Salvador\San_Salvador\CitySan_Salvador.secret.md)
+

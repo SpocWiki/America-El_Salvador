@@ -40,11 +40,16 @@ markerFolder: ./Ahuachapán/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán|Ahuachapán]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.public|Ahuachapán.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.internal|Ahuachapán.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.protect|Ahuachapán.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.private|Ahuachapán.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.personal|Ahuachapán.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Ahuachapán.secret|Ahuachapán.secret]] 
+
+### [Ahuachapán.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.public.md) 
+
+### [Ahuachapán.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.internal.md) 
+
+### [Ahuachapán.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.protect.md) 
+
+### [Ahuachapán.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.private.md) 
+
+### [Ahuachapán.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.personal.md) 
+
+### [Ahuachapán.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorAhuachapán.secret.md)
 

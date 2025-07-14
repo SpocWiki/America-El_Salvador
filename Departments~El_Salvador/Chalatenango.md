@@ -40,11 +40,16 @@ markerFolder: ./Chalatenango/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango|Chalatenango]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.public|Chalatenango.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.internal|Chalatenango.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.protect|Chalatenango.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.private|Chalatenango.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.personal|Chalatenango.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Chalatenango.secret|Chalatenango.secret]] 
+
+### [Chalatenango.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.public.md) 
+
+### [Chalatenango.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.internal.md) 
+
+### [Chalatenango.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.protect.md) 
+
+### [Chalatenango.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.private.md) 
+
+### [Chalatenango.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.personal.md) 
+
+### [Chalatenango.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorChalatenango.secret.md)
 

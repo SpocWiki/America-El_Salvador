@@ -130,11 +130,17 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 [has_place_latitude::13.6667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[El_Salvador|El_Salvador]] 
-- [[../../../../_internal/geo/Continent/America~Central/El_Salvador.internal|El_Salvador.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/El_Salvador.protect|El_Salvador.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/El_Salvador.private|El_Salvador.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/El_Salvador.personal|El_Salvador.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/El_Salvador.secret|El_Salvador.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\El_SalvadorReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\El_SalvadorReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\El_SalvadorReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\El_SalvadorReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\El_SalvadorReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\El_SalvadorReadMe.secret.md)
+

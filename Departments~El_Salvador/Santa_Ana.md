@@ -40,11 +40,16 @@ markerFolder: ./Santa_Ana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana|Santa_Ana]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.public|Santa_Ana.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.internal|Santa_Ana.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.protect|Santa_Ana.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.private|Santa_Ana.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.personal|Santa_Ana.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Santa_Ana.secret|Santa_Ana.secret]] 
+
+### [Santa_Ana.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.public.md) 
+
+### [Santa_Ana.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.internal.md) 
+
+### [Santa_Ana.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.protect.md) 
+
+### [Santa_Ana.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.private.md) 
+
+### [Santa_Ana.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.personal.md) 
+
+### [Santa_Ana.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorSanta_Ana.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./La_Libertad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad|La_Libertad]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.public|La_Libertad.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.internal|La_Libertad.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.protect|La_Libertad.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.private|La_Libertad.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.personal|La_Libertad.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/La_Libertad.secret|La_Libertad.secret]] 
+
+### [La_Libertad.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.public.md) 
+
+### [La_Libertad.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.internal.md) 
+
+### [La_Libertad.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.protect.md) 
+
+### [La_Libertad.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.private.md) 
+
+### [La_Libertad.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.personal.md) 
+
+### [La_Libertad.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorLa_Libertad.secret.md)
 

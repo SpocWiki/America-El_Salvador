@@ -40,11 +40,16 @@ markerFolder: ./Usulután/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Usulután|Usulután]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Usulután.public|Usulután.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Usulután.internal|Usulután.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Usulután.protect|Usulután.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Usulután.private|Usulután.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Usulután.personal|Usulután.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Usulután.secret|Usulután.secret]] 
+
+### [Usulután.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.public.md) 
+
+### [Usulután.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.internal.md) 
+
+### [Usulután.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.protect.md) 
+
+### [Usulután.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.private.md) 
+
+### [Usulután.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.personal.md) 
+
+### [Usulután.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorUsulután.secret.md)
 

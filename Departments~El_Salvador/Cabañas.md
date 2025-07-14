@@ -40,11 +40,16 @@ markerFolder: ./Cabañas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/El_Salvador/Counties/Cabañas|Cabañas]] 
-- [[../../../../../../_public/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.public|Cabañas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.internal|Cabañas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.protect|Cabañas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.private|Cabañas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.personal|Cabañas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/El_Salvador/Counties/Cabañas.secret|Cabañas.secret]] 
+
+### [Cabañas.public](/_public/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.public.md) 
+
+### [Cabañas.internal](/_internal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.internal.md) 
+
+### [Cabañas.protect](/_protect/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.protect.md) 
+
+### [Cabañas.private](/_private/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.private.md) 
+
+### [Cabañas.personal](/_personal/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.personal.md) 
+
+### [Cabañas.secret](/_secret/\Earth\Continent\America~Central\El_Salvador\Departments~El_SalvadorCabañas.secret.md)
 
