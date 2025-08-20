@@ -1,34 +1,35 @@
 ---
 location:
-- 13.6667
-- -89.1667
+  - 13.6667
+  - -89.1667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27025
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: El Salvador
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- El Salvador
-- السلفادور
-- 萨尔瓦多
-- Сальвадор
-- the Republic of El Salvador
-- la República de El Salvador
+  - El Salvador
+  - السلفادور
+  - 萨尔瓦多
+  - Сальвадор
+  - the Republic of El Salvador
+  - la República de El Salvador
 Languages:
-- es-SV
+  - es-SV
 ---
 
 
