@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santa_Ana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santa_Ana/
 markerFolder: ./Santa_Ana/

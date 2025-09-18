@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Salvador
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Salvador/
 markerFolder: ./San_Salvador/

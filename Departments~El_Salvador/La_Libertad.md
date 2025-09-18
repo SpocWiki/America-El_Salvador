@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Libertad
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Libertad/
 markerFolder: ./La_Libertad/

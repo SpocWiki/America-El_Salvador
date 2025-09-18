@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Miguel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Miguel/
 markerFolder: ./San_Miguel/

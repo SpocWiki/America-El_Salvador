@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Unión
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Unión/
 markerFolder: ./La_Unión/
