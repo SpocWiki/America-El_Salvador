@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Salvador,Dept
+  - San Salvador,Dept
 location:
   - 13.8
   - -89.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Salvador,Dept
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[San_Salvador,Dept]]

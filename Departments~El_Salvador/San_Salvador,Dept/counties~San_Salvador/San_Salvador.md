@@ -1,6 +1,7 @@
 ---
 aliases:
   - San Salvador
+  - San_Salvador
 has_id_wikidata: Q3110
 location:
   - 13.66667

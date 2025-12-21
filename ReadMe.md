@@ -1,4 +1,12 @@
 ---
+aliases:
+  - El Salvador
+  - السلفادور
+  - 萨尔瓦多
+  - Сальвадор
+  - the Republic of El Salvador
+  - la República de El Salvador
+  - ReadMe
 location:
   - 13.6667
   - -89.1667
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: El Salvador
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - El Salvador
-  - السلفادور
-  - 萨尔瓦多
-  - Сальвадор
-  - the Republic of El Salvador
-  - la República de El Salvador
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-SV
 ---
