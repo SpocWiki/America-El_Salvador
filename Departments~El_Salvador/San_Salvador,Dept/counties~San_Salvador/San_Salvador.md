@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -89.16666
 dv_has_place_latitude: 13.66667
-dv_name: San Salvador
+dv_has_name_: San Salvador
 dv_Country: "[[../../../../El_Salvador]]"
 dv_Unknown: 32
 dv_is_:

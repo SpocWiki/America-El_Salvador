@@ -43,15 +43,15 @@ dv_ISO4217-currency_country_name: EL SALVADOR
 dv_Telephone: 503
 dv_Global: true
 dv_Global_Name: World
-dv_name: El Salvador
-dv_name-en:
+dv_has_name_: El Salvador
+dv_has_name_en:
   - El Salvador
   - El Salvador
-dv_name-es: El Salvador
-dv_name-fr: El Salvador
-dv_name-cn: 萨尔瓦多
-dv_name-ar: السلفادور
-dv_name-ru: Сальвадор
+dv_has_name_es: El Salvador
+dv_has_name_fr: El Salvador
+dv_has_name_cn: 萨尔瓦多
+dv_has_name_ar: السلفادور
+dv_has_name_ru: Сальвадор
 dv_CLDR_display_name: El Salvador
 dv_UNTERM_English: El Salvador
 dv_UNTERM_English_Formal: the Republic of El Salvador
@@ -89,7 +89,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 222
 dv_ISO2: SV
 dv_ISO3: SLV
-dv_name-de: El Salvador
+dv_has_name_de: El Salvador
 dv_Area-Total: 21041
 dv_Area-Land: 20720
 dv_Continent: "[[South-America]]"
@@ -116,12 +116,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: El Salvador ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: El Salvador ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -180,8 +180,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::El Salvador] 
-name-de = `=this.dv_name-de` 
+[has_name_en::El Salvador] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
