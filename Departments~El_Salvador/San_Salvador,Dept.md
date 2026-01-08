@@ -41,17 +41,17 @@ markerFolder: ./San_Salvador,Dept///
 
 ## Confidential Links & Embeds: 
 
-### [San_Salvador,Dept](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept|San_Salvador,Dept]] 
 
-### [San_Salvador,Dept.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.public|San_Salvador,Dept.public]] 
 
-### [San_Salvador,Dept.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.internal|San_Salvador,Dept.internal]] 
 
-### [San_Salvador,Dept.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.protect|San_Salvador,Dept.protect]] 
 
-### [San_Salvador,Dept.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.private|San_Salvador,Dept.private]] 
 
-### [San_Salvador,Dept.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.personal|San_Salvador,Dept.personal]] 
 
-### [San_Salvador,Dept.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept.secret|San_Salvador,Dept.secret]] 
 

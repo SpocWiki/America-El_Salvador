@@ -16,21 +16,30 @@ tags:
 SpocWebEntityId: 35961
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -89.16666
+dv_has_place_latitude: 13.66667
+dv_name: San Salvador
+dv_Country: "[[../../../../El_Salvador]]"
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~San_Salvador,3110|WD~San_Salvador,3110]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~San_Salvador,3110|WD~San_Salvador,3110]]"
 ---
 
 # [[San_Salvador]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-89.16666] 
-[has_place_latitude::13.66667] 
-[name::San Salvador] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../El_Salvador]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~San_Salvador,3110|WD~San_Salvador,3110]] 
+Unknown = `=this.dv_Unknown` 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -83,19 +92,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/San%20Salvador)
 
+
 ## Confidential Links & Embeds: 
 
-### [San_Salvador](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador|San_Salvador]] 
 
-### [San_Salvador.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.public|San_Salvador.public]] 
 
-### [San_Salvador.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.internal|San_Salvador.internal]] 
 
-### [San_Salvador.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.protect|San_Salvador.protect]] 
 
-### [San_Salvador.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.private|San_Salvador.private]] 
 
-### [San_Salvador.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.personal|San_Salvador.personal]] 
 
-### [San_Salvador.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador/City/San_Salvador.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Salvador,Dept/counties~San_Salvador/San_Salvador.secret|San_Salvador.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./San_Miguel/
 
 ## Confidential Links & Embeds: 
 
-### [San_Miguel](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel|San_Miguel]] 
 
-### [San_Miguel.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.public|San_Miguel.public]] 
 
-### [San_Miguel.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.internal|San_Miguel.internal]] 
 
-### [San_Miguel.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.protect|San_Miguel.protect]] 
 
-### [San_Miguel.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.private|San_Miguel.private]] 
 
-### [San_Miguel.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.personal|San_Miguel.personal]] 
 
-### [San_Miguel.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Miguel.secret|San_Miguel.secret]] 
 

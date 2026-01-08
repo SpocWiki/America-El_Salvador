@@ -40,17 +40,17 @@ markerFolder: ./Sonsonate/
 
 ## Confidential Links & Embeds: 
 
-### [Sonsonate](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate|Sonsonate]] 
 
-### [Sonsonate.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.public|Sonsonate.public]] 
 
-### [Sonsonate.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.internal|Sonsonate.internal]] 
 
-### [Sonsonate.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.protect|Sonsonate.protect]] 
 
-### [Sonsonate.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.private|Sonsonate.private]] 
 
-### [Sonsonate.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.personal|Sonsonate.personal]] 
 
-### [Sonsonate.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Sonsonate.secret|Sonsonate.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./San_Vicente/
 
 ## Confidential Links & Embeds: 
 
-### [San_Vicente](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente|San_Vicente]] 
 
-### [San_Vicente.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.public|San_Vicente.public]] 
 
-### [San_Vicente.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.internal|San_Vicente.internal]] 
 
-### [San_Vicente.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.protect|San_Vicente.protect]] 
 
-### [San_Vicente.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.private|San_Vicente.private]] 
 
-### [San_Vicente.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.personal|San_Vicente.personal]] 
 
-### [San_Vicente.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/San_Vicente.secret|San_Vicente.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Santa_Ana/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Ana](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana|Santa_Ana]] 
 
-### [Santa_Ana.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.public|Santa_Ana.public]] 
 
-### [Santa_Ana.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.internal|Santa_Ana.internal]] 
 
-### [Santa_Ana.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.protect|Santa_Ana.protect]] 
 
-### [Santa_Ana.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.private|Santa_Ana.private]] 
 
-### [Santa_Ana.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.personal|Santa_Ana.personal]] 
 
-### [Santa_Ana.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Santa_Ana.secret|Santa_Ana.secret]] 
 

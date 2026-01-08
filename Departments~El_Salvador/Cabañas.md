@@ -40,17 +40,17 @@ markerFolder: ./Cabañas/
 
 ## Confidential Links & Embeds: 
 
-### [Cabañas](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas|Cabañas]] 
 
-### [Cabañas.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.public|Cabañas.public]] 
 
-### [Cabañas.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.internal|Cabañas.internal]] 
 
-### [Cabañas.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.protect|Cabañas.protect]] 
 
-### [Cabañas.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.private|Cabañas.private]] 
 
-### [Cabañas.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.personal|Cabañas.personal]] 
 
-### [Cabañas.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Cabañas.secret|Cabañas.secret]] 
 

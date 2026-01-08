@@ -41,17 +41,17 @@ markerFolder: ./La_Libertad/
 
 ## Confidential Links & Embeds: 
 
-### [La_Libertad](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad|La_Libertad]] 
 
-### [La_Libertad.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.public|La_Libertad.public]] 
 
-### [La_Libertad.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.internal|La_Libertad.internal]] 
 
-### [La_Libertad.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.protect|La_Libertad.protect]] 
 
-### [La_Libertad.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.private|La_Libertad.private]] 
 
-### [La_Libertad.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.personal|La_Libertad.personal]] 
 
-### [La_Libertad.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/La_Libertad.secret|La_Libertad.secret]] 
 

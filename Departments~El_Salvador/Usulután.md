@@ -40,17 +40,17 @@ markerFolder: ./Usulután/
 
 ## Confidential Links & Embeds: 
 
-### [Usulután](/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután|Usulután]] 
 
-### [Usulután.public](/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.public|Usulután.public]] 
 
-### [Usulután.internal](/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.internal|Usulután.internal]] 
 
-### [Usulután.protect](/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.protect|Usulután.protect]] 
 
-### [Usulután.private](/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.private|Usulután.private]] 
 
-### [Usulután.personal](/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.personal|Usulután.personal]] 
 
-### [Usulután.secret](/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador/Departments~El_Salvador/Usulután.secret|Usulután.secret]] 
 
