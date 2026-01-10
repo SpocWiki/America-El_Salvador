@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -89.16666
 dv_has_place_latitude: 13.66667
-dv_has_name_: San Salvador
+dv_has_name: San Salvador
 dv_Country: "[[../../../../El_Salvador]]"
 dv_Unknown: 32
 dv_is_:
@@ -33,7 +33,7 @@ dv_is_same_as: "[[../../../../../../../WikiData/WD~San_Salvador,3110|WD~San_Salv
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
